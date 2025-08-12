@@ -31,7 +31,7 @@
     const CACHE_KEY = 'Q_twemoji_flag_cache';
     const CACHE_EXPIRATION_MS = 14 * 24 * 60 * 60 * 1000; // 14 days
     const DEBOUNCE_THRESHOLD = 50; // Process mutations immediately up to this count
-    const DEBOUNCE_DELAY_MS = 10; // don't hog the processing; sleep the minimum timeslice the scheduler will give us
+    const DEBOUNCE_DELAY_MS = 10; // don't hog the processing
     const TRANSPARENT_GIF_PLACEHOLDER = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
 
     const svgBlobUrlCache = new Map();
