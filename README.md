@@ -2,7 +2,7 @@
 
 This userscript replaces country flag emojis with SVG images from the Twemoji project. This is particularly useful in browsers like Chrome where some flag emojis may not render correctly.
 
-Initially started as a way to fix the flag emojis like, 🇦🇺, being rendered as AU in Chrome on Windows. I now have a better direct font solution.
+Initially started as a way to fix the flag emojis like, 🇦🇺, being rendered as AU in Chrome on Windows. I now have a better direct font solution. See: [quarrel/](https://github.com/quarrel/broken-flag-emojis-win11-twemoji)
 
 It was an interesting digression in debouncing and avoiding CSP issues, while keeping it performant.
 
