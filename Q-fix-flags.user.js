@@ -12,10 +12,9 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
-// @require      https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js
-// @license       MIT
-// @updateURL    https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Q-fix-flags.user.js
-// @downloadURL  https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Q-fix-flags.user.js
+// @require      https://cdn.jsdelivr.net/npm/@twemoji/api@16.0.1/dist/twemoji.min.js
+// @license      MIT
+// @downloadURL  https://greasyfork.org/en/scripts/545524-svg-country-flag-emoji-q
 // ==/UserScript==
 
 (function() {

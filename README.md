@@ -9,7 +9,7 @@ It was an interesting digression in debouncing and avoiding CSP issues, while ke
 ## Installation
 
 1.  Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2.  Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/499718-svg-country-flag-emoji-q).
+2.  Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/545524-svg-country-flag-emoji-q).
 
 ## How it works
 
