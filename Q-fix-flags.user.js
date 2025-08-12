@@ -14,6 +14,8 @@
 // @grant        GM_addStyle
 // @require      https://cdn.jsdelivr.net/npm/@twemoji/api@latest/dist/twemoji.min.js
 // @license       MIT
+// @updateURL    https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Q-fix-flags.user.js
+// @downloadURL  https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Q-fix-flags.user.js
 // ==/UserScript==
 
 (function() {
