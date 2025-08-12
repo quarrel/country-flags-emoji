@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         SVG Country Flag Emoji --Q
 // @namespace    Violentmonkey Scripts
-// @version      2025-08-12_16-33
+// @version      2025-08-12_16-40
 // @description  Replace all flag emojis with SVG images, initially started as a way to fix the 🇦🇺 being rendered as AU in Chrome in particular, although I now have a better solution.
 // @author       Quarrel
-// @homepage     https://greasyfork.org/en/users/1502112-quarrel
+// @homepage     https://github.com/quarrel/country-flags-emoji
 // @match        *://*/*
 // @run-at       document-start
 // @noframes
