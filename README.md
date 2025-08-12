@@ -1,4 +1,4 @@
-# SVG Country Flag Emoji Fix
+# SVG Country Flag Emoji UserScript
 
 This userscript replaces country flag emojis with SVG images from the Twemoji project. This is particularly useful in browsers like Chrome where some flag emojis may not render correctly.
 
